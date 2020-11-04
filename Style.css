@@ -1,0 +1,52 @@
+h1 {
+    text-align:center;
+}
+
+.red {
+    color: red
+}
+
+.blue {
+    color: blue
+}
+
+.green {
+    color: green
+}
+
+.big {
+    font-size: large;
+}
+
+.small {
+    font-size: small;
+}
+
+#center {
+    text-align: center;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+#font {
+    font-style: italic;
+}
+
+#multiple {
+    font-size: x-large;
+    color: orange;
+    font-weight: bold;
+}
+
+.styledFont {
+    color: orangered;
+font-style: oblique;
+}
+
+.pic {
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+}
